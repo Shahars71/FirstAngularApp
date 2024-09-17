@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Created using this tutorial by Code Deck: https://www.youtube.com/watch?v=f7BJFTEbc10
 
 Demonstration:
-[![Angular Website]()](https://youtu.be/u--qvfwOlQ4)
+[![Angular Website](maxresdefault.jpg)](https://youtu.be/u--qvfwOlQ4)
 
 ## Development server
 
